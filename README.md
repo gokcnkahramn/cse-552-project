@@ -2,6 +2,4 @@
 
 ## TO-DO
 
-* Futbolda detaylı işi seç diğerini bunda yao
-
 ## Notes
