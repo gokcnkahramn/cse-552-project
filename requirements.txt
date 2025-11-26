@@ -1,0 +1,12 @@
+# Python version
+python_version == "3.10.11"
+
+pandas==2.3.3
+numpy==1.26.4
+xgboost==1.7.6
+scikit-learn==1.7.2
+matplotlib==3.10.7
+matplotsoccer==0.0.8
+kloppy==3.18.0
+socceraction==1.5.3
+h5py==3.15.1
