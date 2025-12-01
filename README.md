@@ -1,9 +1,6 @@
 # cse-552-project
 
 ## TO-DO
-* Gereksiz kolon kısmını sil
-* Beraberlik neden hiç etki etmiyor
-* 2 farklı xgboost'ta hangisi neye etki ediyor
 * 2. aşama
 
 ## Notes
