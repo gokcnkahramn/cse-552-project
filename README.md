@@ -5,4 +5,3 @@
 - Readme'ye kod açıklamaları ve results'ı koy
 
 ## Notes
-- Own Goal diye bir tabir yok, şimdilik ellemiyorum ama sonra değiştirilmeli
