@@ -155,4 +155,12 @@ The Bayesian model significantly outperforms classical ML approaches while provi
 
 ## TO-DO
 
+- Hoca feedback'leri gelince detaylandırma yapacağım.
+- Diğer paper'lardan neyi farklı - benzer yaptık?
+- Experimental setup'ta insanların okuyunca replicate edebilmesi lazım
+- Results'lar text'in içinde appendix geçmeli, en sonda değil
+- Section 3 5 detaylandır
+- Alternatiflerde beraberliği yaz
+- Contribution nedir onu iyileştir
+
 ## Notes
