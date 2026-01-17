@@ -155,4 +155,6 @@ The Bayesian model significantly outperforms classical ML approaches while provi
 
 ## TO-DO
 
+- Gelecek çalışmalarda confidence interval'ları hesaplayabilirim.
+
 ## Notes
